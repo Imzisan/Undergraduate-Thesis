@@ -37,9 +37,8 @@ We utilized pre-trained CNN models as feature extractors to enhance learning eff
 
 ### 2. Custom Dynamic Regularization Loss
 We introduced a **Dynamic Regularization Loss Function** that modifies the regularization strength during training:
-\[
-\text{Total Loss} = \text{CrossEntropy}(y_{true}, y_{pred}) + \text{DynamicStrength}(t) \times L2
-\]
+Total Loss(ytrue, ypred, t) = CrossEntropy(ytrue, ypred) + Dynamic Strength(t) × L2 Regularization
+
 This helps maintain a balance between **accuracy** and **generalization** through adaptive regularization.
 
 ### 3. Dataset
