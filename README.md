@@ -71,7 +71,6 @@ Bangla handwritten dataset containing isolated characters and numerals
 
 ---
 
-## 📂 Repository Structure
 
 
 ---
