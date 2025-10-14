@@ -72,23 +72,7 @@ Bangla handwritten dataset containing isolated characters and numerals
 ---
 
 ## 📂 Repository Structure
-├── /notebooks
-│ ├── data_preprocessing.ipynb
-│ ├── model_training.ipynb
-│ ├── evaluation.ipynb
-│
-├── /models
-│ ├── vgg16_model.h5
-│ ├── mobilenetv2_model.h5
-│
-├── /loss_functions
-│ ├── custom_loss.py
-│
-├── results/
-│ ├── training_curves.png
-│ ├── accuracy_comparison.png
-│
-└── README.md
+
 
 ---
 
