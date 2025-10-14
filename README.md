@@ -106,7 +106,7 @@ We sincerely thank our supervisor, peers, and the Department of Computer Science
 ## 📬 Contact
 For any queries or collaboration:  
 📧 **sakibhossainzisan@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/sakibhossainzisan)
+🔗 [LinkedIn](https://www.linkedin.com/in/imzisan/)
 
 ---
 
